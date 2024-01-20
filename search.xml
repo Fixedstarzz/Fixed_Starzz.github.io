@@ -18,4 +18,53 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>HelloWorld</title>
+    <url>/2024/01/21/HelloWorld/</url>
+    <content><![CDATA[<h2 id="I’m-a-test-text"><a href="#I’m-a-test-text" class="headerlink" title="I’m a test text"></a>I’m a test text</h2><h3 id="XD"><a href="#XD" class="headerlink" title="XD"></a>XD</h3> <div class="highlight-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span> (<span class="string">&quot;hello,world!&quot;</span>);</span><br></pre></td></tr></table></figure></div>
+
+<p> Follw my github plz<img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://github.com/Fixedstarzz?tab=repositories"
+                      alt="github"
+                ></p>
+
+  <div class="note-large default">
+    <div class="notel-title rounded-t-lg p-3 font-bold text-lg flex flex-row gap-2 items-center">
+      <i class="notel-icon fa-solid fa-info"></i><p>这是一个文本框</p>
+
+    </div>
+    <div class="notel-content">
+      <p>我是第一行<br>我是第二行<br>我是第三行</p>
+
+    </div>
+  </div>
+
+
+  <div class="note p-4 mb-4 rounded-small default">
+    <p>默认 我是一个小tag</p>
+
+  </div>
+
+<details class="[颜色]" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>[标题] </summary>
+              <div class='content'>
+              <p>需要写的内容</p>
+              </div>
+            </details>
+
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/FkqNjWZaUAEUrAT.jpg"
+                      alt="BangDream:It&#39;sMYGO!!!!!"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/FiKNfDyUoAALJ22.jpg"
+                      alt="BangDream:It&#39;sMYGO!!!!!"
+                ></p>
+<p>date: 2024-01-21 00:47:18<br>tags:</p>
+]]></content>
+  </entry>
 </search>
